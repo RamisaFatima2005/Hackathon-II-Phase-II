@@ -1,0 +1,21 @@
+# Prettier Ignore for Full-Stack Todo Application
+
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+
+# Dotfiles
+.*
+
+# Compiled output
+**/*.js
+**/*.mjs
+**/*.cjs
+
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

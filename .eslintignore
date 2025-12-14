@@ -1,0 +1,19 @@
+# ESLint Ignore for Full-Stack Todo Application
+
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+
+# Dotfiles
+.*
+
+# Compiled output
+**/*.js
+**/*.mjs
+**/*.cjs
+
+# Generated files
+frontend/next-env.d.ts
